@@ -1,3 +1,3 @@
 # Proyecto geovisor
 
-Proyecto visor para Ingenieria de Software II
+Proyecto visor de mapa 2D centrado en Colombia para Ingenieria de Software II
